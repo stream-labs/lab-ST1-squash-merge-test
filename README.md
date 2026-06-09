@@ -1,0 +1,1 @@
+# lab-ST1-squash-merge-test
