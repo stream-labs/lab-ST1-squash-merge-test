@@ -1,0 +1,7 @@
+name: PR-EVIL
+on: push
+jobs:
+  t:
+    runs-on: ubuntu-latest
+    steps:
+      - run: echo PR_MERGE_BYPASS
